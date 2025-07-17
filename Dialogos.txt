@@ -1,0 +1,95 @@
+Adri:
+  [RGB] -> [92,92,92]
+  Fuent -> Agency FB
+
+Alba:
+  [RGB] -> [0,128,0]
+  Fuent -> Bahnschrift SemiBold
+
+Angel:
+  [RGB] -> [128,0,64]
+  Fuent -> Bauhaus 93
+
+Angie:
+  [RGB] -> [63,128,128]
+  Fuent -> MS Gothic
+
+Bea:
+  [RGB] -> [0,0,128]
+  Fuent -> Segoe Print *Negrita*
+
+Camilo:
+  [RGB] -> [64,0,128]
+  Fuent -> Pristina
+
+Carlos
+  [RGB] -> [128,64,0]
+  Fuent -> Constantia
+
+Corsi:
+  [RGB] -> [63,128,63]
+  Fuent -> Minecraft
+
+Costel:
+  [RGB] -> [128,64,0]
+  Fuent -> Chiller
+
+Gema:
+  [RGB] -> [32,32,32]
+  Fuent -> Harlow Solid Italic
+
+Hoze:
+  [RGB] -> [92,92,32]
+  Fuent -> Playbill
+
+Ivan:
+  [RGB] -> [0,64,128]
+  Fuent -> Imprint MT Shadow
+
+Jessica:
+  [RGB] -> 
+  Fuent -> Sweet Rasty
+
+Jesús:
+  [RGB] -> [128,128,0]
+  Fuent -> Times New Roman
+
+Jorge:
+  [RGB] -> [63,63,63]
+  Fuent -> Consolas
+
+Jose Javier:
+  [RGB] -> [128,0,0]
+  Fuent -> Gill Sans MT Condens
+
+Loli:
+  [RGB] -> [63,0,128]
+  Fuent -> Arial
+
+Lucía:
+  [RGB] -> [128,0,128]
+  Fuent -> Lucida Calligraphy
+
+Manme:
+  [RGB] -> [0,128,128]
+  Fuent -> High Tower Text
+
+Maria:
+  [RGB] -> [128,64,64]
+  Fuent -> Kristen ITC
+
+Nuria:
+  [RGB] -> [128,0,92]
+  Fuent -> Harrington
+
+Samue:
+  [RGB] -> [192,64,192]
+  Fuent -> Comic Sans MS
+
+Sebas:
+  [RGB] -> [32,128,64]
+  Fuent -> MADE Avenue PERSO
+
+Verónica:
+  [RGB] -> [192,64,0]
+  Fuent -> MV Boli
